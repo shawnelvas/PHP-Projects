@@ -1,4 +1,4 @@
-# Signup and Login with PHP and MySQL
+# Product Listing with crud operation along with categories for each product
  <h4>Steps to load the Project</h4>
  <ul>
 <li>downlaod the reposity content and copy the contents in the xampp htdocs folder</li>
