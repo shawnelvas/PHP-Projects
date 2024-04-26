@@ -1,3 +1,14 @@
+# Signup and Login with PHP and MySQL
+ <h4>Steps to load the Project</h4>
+ <ul>
+<li>downlaod the reposity content and copy the contents in the xampp htdocs folder</li>
+<li>Start the xampp application</li>
+<li>Open phpmyadmin Page from the localhost url</li>
+<li>import the sql structure file (file with sql dot extension) into the phpmyadmin page</li>
+<li>then run the localhost:/projectname</li>
+</ul>
+
+
 <p>List products
 Create products with basic fields: product name, sku, stock qty, regular_price, sale_price, featured image field, product category(category can directly be added to DB with category name, slug, default image)
 Delete a product
